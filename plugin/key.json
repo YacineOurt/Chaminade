@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "libertydoc-365115",
+    "private_key_id": "65f2762ec2b57b8d635d0a75460c3566bb4a0520",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC9+kKXR/KAc/VK\n/DtwI/OAdrnXiiRzJrGPGl49Mr9OD+SUvKVZV+pKZ5G2QXlLFNpqCgxTLnc/9WqX\nntvrmdfTmErxhjQeUOdI7v74qX3TgFCFMocoVtCoTFj8PHdwS4sIAdLZacA85P47\nCPHXaU2QVcU5uCb3qwxwseFcgNBSousFpLI7FGDeg2fJiGjO9rs4KyOv/y1ukMaA\niTLhKGPM0PLm5OmWk/eA4yJ7nCltPHMoTTwQWVccVZlMN4+jEAAqBjAgCBQY1dqT\nsb7ws7rYVW7Zye5qELe/In9RS7HNRTWYGhthopmRb1cHCHi+l/wMQc2IOtwIZUX6\n4elwNf9/AgMBAAECggEATQ9P5pxlBezDYWS52W2DzqaaEI905I6b9G+eLVXB2rDA\nqAJzUa/DFeY36UVapXVyeRPVVwJglb1/PLxP+ZvAO5CpSZoF1ww7HM7w9r2Nj/aa\n8sSBpX+9iJ7bc4k1a4QBA8D1nYHzW+AJLbodmyKYN0VLSHPlvo2P8MB+qO6JUhMX\np/5HWo4ep9Xyl1IERCR8RgMXp/CUvlQmSw7ZKP+DeFoNV5El9oW9d46JZWMY1uXd\nfNeg4IJz+Gt5XkxC3U8FjKYMuomhg5hlVwvrqj8Jy7IUCE93H7yZN9E8piCP0RVy\npBdwxLZjtmpYFVUFkM9pbk/7e/+56PD6lFBys3iywQKBgQDieZyS9E4rKFyqcrY1\n5MXe+Q62QXPxCjo0kqDanOYtBiqqYImxpDtV/vXjQ68hFt/8B09nR2XjPHsJE6Jj\n+MM1xFvE6PH8c+lInH8ZU1IrzpVE5vaYRJKeIhQtFweHnKNFn67yvW+rwfpNrL11\nEPwdaWXNIlq/I6qfbnRQrz2uwQKBgQDWvpSVHuutoUSBugYam2jyS2U71P7bbZHQ\nFZnqaxcP5WD25ka/5t69JJK62rjA9aeIVfNmVjcww5Ilxdgrgq7ftimFoShcK1w4\nrmqV9GkafQS/K/rUdPPhcACUWApRVueTJqMcUECeZysNxqil7nA/hFe3OqicbV2s\nIs4+WkV+PwKBgQCpn0X69sm5H0DQVJxOHytoRgeTz9ADn5Jan9ukANGQtUatVyKq\nDwR180C814vKb7SQsfTxuJMCL+FCuhbtY3rpwUiuYX4kg7gcr0GueS5ZKx+3fHkD\nMJDTqViNMOtt0Y6j7eZ9Xg7OiLltBczcaj051h/uFSX8dL0tLfAmIipDwQKBgQCg\nj6R2jsT2cJLRUC6KLFLefsL1Zn8bv6P7antHi8SVjRLf6DNT/qHh1/uhnDHxjHsz\n89fmV2YynreiaHgFqFNqT0Bieqm7qGvusXJeJn2DYaBv88k6mytSDrVQNTeZs5m4\nK3ZfkB2QkmDdjwC/+DSTOTeAd2pkc11LfEaq1kIJbwKBgQCuKFZeiZEfS0O/mskt\nljIXEyoqStpTdA9PNIwL3UAzAFF5oHhsoBhCL81e3EA1BrOm5GrNg0qsgI3BEzUp\n0jfKrmnq9VHc/KoNCq8f6Mc9GJT5tGZamdQmvgB2rldzsNWY3qZC1uM0pHhwrF26\n2DoNOLijAMC8xOTf1M5eXM3H0Q==\n-----END PRIVATE KEY-----\n",
+    "client_email": "epitech@libertydoc-365115.iam.gserviceaccount.com",
+    "client_id": "104250373053509871483",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/epitech%40libertydoc-365115.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
